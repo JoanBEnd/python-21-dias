@@ -76,6 +76,7 @@ lectura_completada = False
 #Estos tipos nos pueden servir para poder trabajar condicionales, en caso se cumplan
 # poder ejecutar las lineas de codigo que se tengan:
 
+#La condicional if se  explica en el Dia-3 archivo condicionales.py
 if curso_completado :
     print("Vás por buen camino en tu aprendizaje!!")
 

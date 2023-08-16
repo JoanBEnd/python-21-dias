@@ -80,6 +80,8 @@ print( 4 is 4) #True
 mi_edad = 35
 mi_signo = "Capricornio"
 
+
+#La condicional if se  explica en el Dia-3 archivo condicionales.py
 if mi_edad == 35 and mi_signo == "Capricornio":
     print("los datos que estás comparando son verdaderos")
 else:
@@ -91,6 +93,7 @@ else:
 mi_mascota ="perro"
 nombre_mascota = "duke"
 
+#La condicional if se  explica en el Dia-3 archivo condicionales.py
 if mi_mascota == "perro" or nombre_mascota=="kratos":
     print("Si tiene una mascota")
 else:
@@ -102,6 +105,7 @@ else:
 
 fin_de_semana = False
 
+#La condicional if se  explica en el Dia-3 archivo condicionales.py
 if not fin_de_semana:
     print("no se trabaja")
 else:
