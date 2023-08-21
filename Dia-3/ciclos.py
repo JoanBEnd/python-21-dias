@@ -16,6 +16,8 @@
 
 #la variable es la que se estable para recorrer los elementos en la secuencia especificada
 
+#EJEMPLO:
+
 #en este ejemplo recorreremos el rango establecido entre el 1 y el 11, donde i sera cada 
 #numero del rango exceptuando el 11 ya que es el unico valor que no se toma en el recorrido
 
@@ -64,7 +66,7 @@ for (llave, valor) in diccionario.items():
 #lo que está haciendo es evaluar la condición y si esta es verdadera True, entonces
 #ingresa al while para ejecutar el código que tiene dentro.
 
-#ejemplo
+#EJEMPLO:
 
 #En el siguiente ejemplo se ejecutar el while mientras la variable i sea siempre < que 10
 #cuando esta variable i llegue a ser 10 entonces ya no entrara al while y el programa
