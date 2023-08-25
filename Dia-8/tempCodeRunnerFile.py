@@ -1,9 +1,4 @@
 
-from collections import Counter
-
-input_list = ['hello world', 'world of programming', 'hello programming']
-
-word_count = Counter(lambda phrase: phrase.split(), input_list)
-word_count_dict = dict(word_count)
-
-print(word_count_dict)
+input_map_filter = [10, 45, 35, 48, 26, 87, 13]
+output_map_filter = list(filter(lambda nuevo_numero: nuevo_numero %2 ==0 ,map(lambda numero: numero**2, input_map_filter)))
+print(output_map_filter)
