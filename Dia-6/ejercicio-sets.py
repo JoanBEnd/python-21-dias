@@ -61,7 +61,7 @@ print(resultado)
 
 
 
-print("****** usando comprehentions ************")
+print("****** usando comprehension ************")
 
 from functools import reduce
 
