@@ -1,0 +1,2 @@
+Este archivo es para lectura.
+Estamos estudiando python
