@@ -1,7 +1,7 @@
 #Encapsulamiento se refiere ala idea de que los datos y metodos de
-#un obketo deben estar protegidos yno deben ser accesibles directamente
+#un objeto deben estar protegidos y no deben ser accesibles directamente
 #desde fuera del objeto
-#Para esto el encapsulamiento se logra utilizando coneviones de nomenclatura,
+#Para esto el encapsulamiento se logra utilizando covenciones de nomenclatura,
 #para el caso de propiedades mediante el decorador @property
 
 
